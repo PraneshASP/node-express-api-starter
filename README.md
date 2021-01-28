@@ -1,8 +1,8 @@
 [![Product Name Screen Shot](https://miro.medium.com/max/1920/1*X2XNG3IN9Gq4Trso59Tzow.jpeg)](https://medium.com/swlh/how-to-create-your-own-secure-node-js-rest-api-boilerplate-79b85721ae2c)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![language](https://img.shields.io/github/languages/top/PraneshASP/node-authentication-jwt-mongodb)]("https://github.com/PraneshASP/node-express-api-starter")
-[![vulnerability](https://img.shields.io/snyk/vulnerabilities/github/PraneshASP/node-authentication-jwt-mongodb)](https://github.com/PraneshASP/node-express-api-starter)
+[![language](https://img.shields.io/github/languages/top/PraneshASP/node-express-api-starter)]("https://github.com/PraneshASP/node-express-api-starter")
+[![vulnerability](https://img.shields.io/snyk/vulnerabilities/github/PraneshASP/node-express-api-starter)](https://github.com/PraneshASP/node-express-api-starter)
 [![repo size](https://img.shields.io/github/repo-size/PraneshASP/node-authentication-jwt-mongodb)](https://github.com/PraneshASP/node-express-api-starter)
 [![node version](https://img.shields.io/node/v/npm)](https://github.com/PraneshASP/node-express-api-starter)
 [![npm version](https://img.shields.io/npm/v/npm)](https://github.com/PraneshASP/node-express-api-starter)
@@ -30,7 +30,7 @@
 
 For a more detailed explanation of the code, you can refer to my medium post associated with this repository.
 
-- [Visit blog](https://medium.com/swlh/how-to-create-your-own-secure-node-js-rest-api-boilerplate-79b85721ae2c) - How to Create Your Own Secure Node.js REST API Boilerplate.
+> [Visit blog](https://medium.com/swlh/how-to-create-your-own-secure-node-js-rest-api-boilerplate-79b85721ae2c) - How to Create Your Own Secure Node.js REST API Boilerplate.
 
 ### Built With
 
